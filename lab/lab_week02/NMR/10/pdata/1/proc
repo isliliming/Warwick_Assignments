@@ -1,12 +1,12 @@
-##TITLE= Parameter file, TopSpin 3.5 pl 2
+##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 1	$$ modification sequence number
+##NPOINTS= 19	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ 2023-10-11 15:55:50.898 +0100  nmrsu@hd300
-$$ /v/thisweek/hd300/data/LAB/nmr/Oct11-2023/10/pdata/1/proc
-$$ process /opt/topspin3.5pl2/prog/mod/dirdata
+$$ 2023-10-15 22:07:22.789 +0100  bee-b@LLMPC
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/10/pdata/1/proc
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\proc1d.exe
 ##$ABSF1= 10
 ##$ABSF2= 0
 ##$ABSG= 5
@@ -36,8 +36,8 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$DFILT= <>
 ##$DTYPP= 0
 ##$ERETIC= no
-##$F1P= 0
-##$F2P= 0
+##$F1P= 2.39799518884803
+##$F2P= 2.26686801705699
 ##$FCOR= 0.5
 ##$FTSIZE= 0
 ##$FT_mod= 4
@@ -92,7 +92,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$PPIPTYP= 0
 ##$PPMPNUM= 2147483647
 ##$PPRESOL= 1
-##$PSCAL= 4
+##$PSCAL= 0
 ##$PSIGN= 0
 ##$PYNMP= <proc.py>
 ##$RDF1= 0

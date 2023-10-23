@@ -34,7 +34,200 @@ $$ /v/thisweek/hd400/data/JD/nmr/Oct11-2023/20/pdata/1/auditp.txt
       <wrpa from 1 20 "Oct11-2023" "/opt/topspin3.5pl2/data/JD/nmr"
        data hash MD5: 64K
        CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/20/pdata/1/auditp.txt
+(   7,<2023-10-21T04:10:56.783+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(   8,<2023-10-21T04:11:18.324+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(   9,<2023-10-21T04:11:22.394+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  10,<2023-10-21T04:11:26.673+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  11,<2023-10-21T04:11:41.135+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  12,<2023-10-21T04:12:26.177+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  13,<2023-10-21T04:12:34.785+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  14,<2023-10-21T04:12:38.566+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  15,<2023-10-21T04:12:46.892+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  16,<2023-10-21T04:12:52.063+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  17,<2023-10-21T04:13:09.606+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  18,<2023-10-21T04:13:21.550+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  19,<2023-10-21T04:13:30.581+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  20,<2023-10-21T04:13:41.406+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  21,<2023-10-21T04:13:55.644+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  22,<2023-10-21T04:14:06.155+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  23,<2023-10-21T04:14:14.342+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  24,<2023-10-21T04:14:16.248+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  25,<2023-10-21T04:14:20.660+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  26,<2023-10-21T04:14:21.866+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  27,<2023-10-21T04:14:23.361+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  28,<2023-10-21T04:14:24.421+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  29,<2023-10-21T04:14:26.177+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  30,<2023-10-21T04:14:29.124+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  31,<2023-10-21T04:14:42.636+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  32,<2023-10-21T04:14:50.806+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  33,<2023-10-21T04:14:57.539+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  34,<2023-10-21T04:15:26.069+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  35,<2023-10-21T04:15:27.672+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  36,<2023-10-21T04:15:36.634+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  37,<2023-10-21T04:15:39.362+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  38,<2023-10-21T04:15:42.708+0800>,<bee-b>,<LLMPC>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  39,<2023-10-21T04:16:08.950+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  40,<2023-10-21T04:16:08.968+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  41,<2023-10-21T04:16:08.984+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  42,<2023-10-21T04:16:09.000+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  43,<2023-10-21T04:16:09.016+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  44,<2023-10-21T04:16:09.034+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  45,<2023-10-21T04:16:09.056+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  46,<2023-10-21T04:16:09.074+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  47,<2023-10-21T04:16:09.092+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  48,<2023-10-21T04:16:09.126+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  49,<2023-10-21T04:19:22.359+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DEFINE [5.604;5.472]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  50,<2023-10-21T04:19:22.374+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DELETE [2.666;1.153]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  51,<2023-10-21T04:19:22.391+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DEFINE [2.364;2.303]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  52,<2023-10-21T04:19:22.412+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DEFINE [2.666;1.153]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  53,<2023-10-21T04:19:22.434+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DELETE [5.604;5.472]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  54,<2023-10-21T04:19:22.452+0800>,<bee-b>,<LLMPC>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DEFINE [5.588;5.474]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
 ##END=
 
 $$ hash MD5
-$$ 36 B6 82 F2 E7 51 BC FE 6F 57 0D 2F 99 EE 91 03
+$$ E2 73 33 C6 9C 09 70 21 DF F9 83 88 12 FE 61 6E

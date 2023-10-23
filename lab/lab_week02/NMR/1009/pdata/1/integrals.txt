@@ -1,0 +1,7 @@
+   Current data set:
+   NAME =	NMR	EXPNO =	1009	PROCNO = 1
+   DU   =	C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2
+
+   Number   Integrated Region     Integral
+     1      5.597      5.505         1.23444
+     2      2.385      2.318         1.00000
