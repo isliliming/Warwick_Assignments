@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= bee-b
+$$ 2023-10-15 21:42:31.586 +0100  bee-b@LLMPC
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/20/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
+##$MULTDISP= <C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/10/pdata/1|C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/30/pdata/1|C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/40/pdata/1|C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/80/pdata/1|C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/90/pdata/1>
+##END=

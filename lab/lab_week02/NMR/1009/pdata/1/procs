@@ -1,14 +1,14 @@
 ##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 4	$$ modification sequence number
+##NPOINTS= 32	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ 2023-10-15 22:12:34.695 +0100  bee-b@LLMPC
-$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/80/pdata/1/procs
+$$ 2023-10-21 04:27:01.082 +0800  bee-b@LLMPC
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/1009/pdata/1/procs
 $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
-##$ABSF1= 16.06652
-##$ABSF2= -3.956852
+##$ABSF1= 16.16747
+##$ABSF2= -3.858072
 ##$ABSG= 5
 ##$ABSL= 3
 ##$ALPHA= 0
@@ -36,15 +36,15 @@ $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$DFILT= <>
 ##$DTYPP= 0
 ##$ERETIC= no
-##$F1P= 16.066520690918
-##$F2P= -3.95685138947417
+##$F1P= 16.1674709320068
+##$F2P= -3.85807164203229
 ##$FCOR= 0
 ##$FTSIZE= 65536
 ##$FT_mod= 6
 ##$GAMMA= 0
 ##$GB= 0
 ##$INTBC= 1
-##$INTSCL= 1
+##$INTSCL= 5.15876513167763e-10
 ##$ISEN= 128
 ##$LB= 0.3
 ##$LEV0= 0
@@ -72,23 +72,19 @@ $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$Mdd_CsNORM= 0
 ##$Mdd_CsVE= yes
 ##$Mdd_CsZF= 0
-##$Mdd_LrLAMBDA= 0
-##$Mdd_LrNITER= 0
-##$Mdd_LrRANK= 0
-##$Mdd_LrZF= 0
 ##$Mdd_mod= 0
 ##$NCOEF= 0
-##$NC_proc= -7
+##$NC_proc= -3
 ##$NLEV= 6
 ##$NOISF1= 0
 ##$NOISF2= 0
 ##$NSP= 0
 ##$NTH_PI= 0
 ##$NZP= 0
-##$OFFSET= 16.06652
+##$OFFSET= 16.16747
 ##$PC= 1
-##$PHC0= 36.52128
-##$PHC1= -17.78493
+##$PHC0= 131.8318
+##$PHC1= -23.32619
 ##$PH_mod= 1
 ##$PKNL= yes
 ##$PPARMOD= 0
@@ -96,7 +92,7 @@ $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$PPIPTYP= 0
 ##$PPMPNUM= 2147483647
 ##$PPRESOL= 1
-##$PSCAL= 4
+##$PSCAL= 0
 ##$PSIGN= 0
 ##$PYNMP= <proc.py>
 ##$RDF1= 0
@@ -105,7 +101,7 @@ $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$RDINT= 0
 ##$RDPOS= 0
 ##$REVERSE= no
-##$SF= 300.130036064658
+##$SF= 400.130008122638
 ##$SI= 65536
 ##$SIGF1= 0
 ##$SIGF2= 0
@@ -117,7 +113,7 @@ $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$SSB= 0
 ##$STSI= 65536
 ##$STSR= 0
-##$SW_p= 6009.61538462416
+##$SW_p= 8012.82051281051
 ##$SYMM= 0
 ##$S_DEV= 0
 ##$TDeff= 65536
@@ -128,17 +124,12 @@ $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$TM2= 0
 ##$TOPLEV= 0
 ##$USERP1= <>
-##$USERP10= <>
 ##$USERP2= <>
 ##$USERP3= <>
 ##$USERP4= <>
 ##$USERP5= <>
-##$USERP6= <>
-##$USERP7= <>
-##$USERP8= <>
-##$USERP9= <>
 ##$WDW= 1
 ##$XDIM= 0
-##$YMAX_p= 533546072
-##$YMIN_p= -375075
+##$YMAX_p= 443807339
+##$YMIN_p= -376640
 ##END=

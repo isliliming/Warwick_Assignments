@@ -1,12 +1,12 @@
-##TITLE= Parameter file, TopSpin 3.5 pl 2
+##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
 ##NPOINTS= 1	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
-##OWNER= nmrsu
-$$ 2023-10-11 17:10:23.089 +0100  nmrsu@hd400
-$$ /v/thisweek/hd400/data/JD/nmr/Oct11-2023/100/pdata/1/proc
-$$ process /opt/topspin3.5pl2/prog/mod/dirdata
+##OWNER= bee-b
+$$ 2023-10-15 21:50:50.911 +0100  bee-b@LLMPC
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/10/pdata/991/proc
+$$ process C:\Bruker\TopSpin4.3.0\prog\au\bin\hwcal.exe
 ##$ABSF1= 10
 ##$ABSF2= 0
 ##$ABSG= 5
@@ -30,14 +30,14 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$BC_mod= 2
 ##$BYTORDP= 0
 ##$COROFFS= 0
-##$CY= 15
+##$CY= 100
 ##$DATMOD= 1
 ##$DC= 2
 ##$DFILT= <>
 ##$DTYPP= 0
 ##$ERETIC= no
-##$F1P= 0
-##$F2P= 0
+##$F1P= 2.39799518884803
+##$F2P= 2.26686801705699
 ##$FCOR= 0.5
 ##$FTSIZE= 0
 ##$FT_mod= 4
@@ -53,7 +53,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$MC2= 0
 ##$MEAN= 0
 ##$ME_mod= 0
-##$MI= 0
+##$MI= 50
 ##$MddCEXP= no
 ##$MddCT_SP= no
 ##$MddF180= no
@@ -72,6 +72,10 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$Mdd_CsNORM= 0
 ##$Mdd_CsVE= yes
 ##$Mdd_CsZF= 0
+##$Mdd_LrLAMBDA= 0
+##$Mdd_LrNITER= 0
+##$Mdd_LrRANK= 0
+##$Mdd_LrZF= 0
 ##$Mdd_mod= 0
 ##$NCOEF= 0
 ##$NC_proc= 0
@@ -81,10 +85,10 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$NSP= 1
 ##$NTH_PI= 0
 ##$NZP= 0
-##$OFFSET= 16.16747
-##$PC= 1
-##$PHC0= 131.8318
-##$PHC1= -23.32619
+##$OFFSET= 16.19909
+##$PC= 4
+##$PHC0= 34.03878
+##$PHC1= -15.49825
 ##$PH_mod= 0
 ##$PKNL= yes
 ##$PPARMOD= 0
@@ -92,7 +96,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$PPIPTYP= 0
 ##$PPMPNUM= 2147483647
 ##$PPRESOL= 1
-##$PSCAL= 4
+##$PSCAL= 1
 ##$PSIGN= 0
 ##$PYNMP= <proc.py>
 ##$RDF1= 0
@@ -101,7 +105,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$RDINT= 0
 ##$RDPOS= 0
 ##$REVERSE= no
-##$SF= 400.130008122638
+##$SF= 300.129996279275
 ##$SI= 65536
 ##$SIGF1= 0
 ##$SIGF2= 0
@@ -113,13 +117,12 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$SSB= 0
 ##$STSI= 0
 ##$STSR= 0
-##$SW_p= 8012.82051281051
+##$SW_p= 6009.61538462416
 ##$SYMM= 0
 ##$S_DEV= 0
 ##$TDeff= 0
 ##$TDoff= 0
-##$TI= <8Z
-PROTON.w CDCl3 /opt/topspin3.5pl2 JD 30
+##$TI= <10Z
 
 >
 ##$TILT= no
@@ -127,10 +130,15 @@ PROTON.w CDCl3 /opt/topspin3.5pl2 JD 30
 ##$TM2= 0
 ##$TOPLEV= 0
 ##$USERP1= <>
+##$USERP10= <>
 ##$USERP2= <>
 ##$USERP3= <>
 ##$USERP4= <>
 ##$USERP5= <>
+##$USERP6= <>
+##$USERP7= <>
+##$USERP8= <>
+##$USERP9= <>
 ##$WDW= 1
 ##$XDIM= 0
 ##$YMAX_p= 0

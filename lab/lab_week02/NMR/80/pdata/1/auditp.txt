@@ -34,7 +34,12 @@ $$ /v/thisweek/hd300/data/LAB/nmr/Oct11-2023/80/pdata/1/auditp.txt
       <wrpa from 1 80 "Oct11-2023" "/opt/topspin3.5pl2/data/LAB/nmr"
        data hash MD5: 64K
        BD 33 3A 76 3C 5C 61 38 91 9F 0D 36 BB D0 29 61>)
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/80/pdata/1/auditp.txt
+(   7,<2023-10-15T22:11:48.565+0100>,<bee-b>,<LLMPC>,<proc1d>,<TopSpin 4.3.0>,
+      <pk fgphup PHC0 = 0 PHC1 = 0 
+       data hash MD5: 64K
+       BD 33 3A 76 3C 5C 61 38 91 9F 0D 36 BB D0 29 61>)
 ##END=
 
 $$ hash MD5
-$$ 59 58 83 77 55 9D B1 73 54 77 05 C5 21 58 A3 88
+$$ 4F 85 A5 D0 FF 9C F9 88 CE AE 3B 07 9C E5 FE 79
