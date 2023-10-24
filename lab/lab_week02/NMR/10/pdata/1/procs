@@ -1,12 +1,12 @@
-##TITLE= Parameter file, TopSpin 3.5 pl 2
+##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 1	$$ modification sequence number
+##NPOINTS= 11	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ 2023-10-11 15:55:51.064 +0100  nmrsu@hd300
-$$ /v/thisweek/hd300/data/LAB/nmr/Oct11-2023/10/pdata/1/procs
-$$ process /opt/topspin3.5pl2/prog/mod/dirdata
+$$ 2023-10-15 22:07:22.788 +0100  bee-b@LLMPC
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/10/pdata/1/procs
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\proc1d.exe
 ##$ABSF1= 16.19909
 ##$ABSF2= -3.824286
 ##$ABSG= 5
@@ -36,8 +36,8 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$DFILT= <>
 ##$DTYPP= 0
 ##$ERETIC= no
-##$F1P= 0
-##$F2P= 0
+##$F1P= 2.39799518884803
+##$F2P= 2.26686801705699
 ##$FCOR= 0
 ##$FTSIZE= 65536
 ##$FT_mod= 6
@@ -53,7 +53,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$MC2= 0
 ##$MEAN= 0
 ##$ME_mod= 0
-##$MI= 0
+##$MI= 50
 ##$MddCEXP= no
 ##$MddCT_SP= no
 ##$MddF180= no
@@ -72,6 +72,10 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$Mdd_CsNORM= 0
 ##$Mdd_CsVE= yes
 ##$Mdd_CsZF= 0
+##$Mdd_LrLAMBDA= 0
+##$Mdd_LrNITER= 0
+##$Mdd_LrRANK= 0
+##$Mdd_LrZF= 0
 ##$Mdd_mod= 0
 ##$NCOEF= 0
 ##$NC_proc= -4
@@ -82,7 +86,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$NTH_PI= 0
 ##$NZP= 0
 ##$OFFSET= 16.19909
-##$PC= 1
+##$PC= 4
 ##$PHC0= 34.03878
 ##$PHC1= -15.49825
 ##$PH_mod= 1
@@ -92,7 +96,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$PPIPTYP= 0
 ##$PPMPNUM= 2147483647
 ##$PPRESOL= 1
-##$PSCAL= 4
+##$PSCAL= 1
 ##$PSIGN= 0
 ##$PYNMP= <proc.py>
 ##$RDF1= 0
@@ -124,10 +128,15 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$TM2= 0
 ##$TOPLEV= 0
 ##$USERP1= <>
+##$USERP10= <>
 ##$USERP2= <>
 ##$USERP3= <>
 ##$USERP4= <>
 ##$USERP5= <>
+##$USERP6= <>
+##$USERP7= <>
+##$USERP8= <>
+##$USERP9= <>
 ##$WDW= 1
 ##$XDIM= 0
 ##$YMAX_p= 506430030

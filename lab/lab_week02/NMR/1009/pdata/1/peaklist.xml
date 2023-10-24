@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2023-10-21T04:22:20">
+  <PeakList1D>
+    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:22:20" expNo="1009" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
+      <PeakPickDetails>F1=5.599878ppm, F2=5.496096ppm, MI=2.16cm, MAXI=2.25cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="5.557048" intensity="2.186641" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:22:20" expNo="1009" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
+      <PeakPickDetails>F1=2.412920ppm, F2=2.296166ppm, MI=2.84cm, MAXI=2.94cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.352433" intensity="2.871722" type="0"/>
+  </PeakList1D>
+</PeakList>

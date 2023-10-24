@@ -1,14 +1,14 @@
 ##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 3	$$ modification sequence number
+##NPOINTS= 2	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
-##OWNER= nmrsu
-$$ 2023-10-15 21:50:51.531 +0100  bee-b@LLMPC
-$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/10/pdata/1/outd
+##OWNER= bee-b
+$$ 2023-10-15 21:50:51.253 +0100  bee-b@LLMPC
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/10/pdata/992/outd
 $$ process C:\Bruker\TopSpin4.3.0\prog\au\bin\hwcal.exe
 ##$CURPLOT= <HÆÓ|ÆÓˆÆÓ>
-##$CURPRIN= <$1#1#0#1#1#1#1#1#0#-1#-1#1#-1>
+##$CURPRIN= <simfit.out>
 ##$DFORMAT= <normdp>
 ##$LAYOUT= <+/1D_H.xwp>
 ##$LFORMAT= <normlp>

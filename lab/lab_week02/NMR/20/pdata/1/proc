@@ -1,12 +1,12 @@
-##TITLE= Parameter file, TopSpin 3.5 pl 2
+##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 1	$$ modification sequence number
+##NPOINTS= 5	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ 2023-10-11 16:31:40.549 +0100  nmrsu@hd400
-$$ /v/thisweek/hd400/data/JD/nmr/Oct11-2023/20/pdata/1/proc
-$$ process /opt/topspin3.5pl2/prog/mod/dirdata
+$$ 2023-10-21 04:16:11.081 +0800  bee-b@LLMPC
+$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/20/pdata/1/proc
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$ABSF1= 10
 ##$ABSF2= 0
 ##$ABSG= 5
@@ -36,8 +36,8 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$DFILT= <>
 ##$DTYPP= 0
 ##$ERETIC= no
-##$F1P= 0
-##$F2P= 0
+##$F1P= 16.2066898345947
+##$F2P= -3.81885352481859
 ##$FCOR= 0.5
 ##$FTSIZE= 0
 ##$FT_mod= 4
@@ -92,7 +92,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$PPIPTYP= 0
 ##$PPMPNUM= 2147483647
 ##$PPRESOL= 1
-##$PSCAL= 4
+##$PSCAL= 0
 ##$PSIGN= 0
 ##$PYNMP= <proc.py>
 ##$RDF1= 0
@@ -127,6 +127,7 @@ PROTON.w CDCl3 /opt/topspin3.5pl2 JD 55
 ##$TM2= 0
 ##$TOPLEV= 0
 ##$USERP1= <>
+##$USERP10= <-3148868.91875|6.091371854375E7>
 ##$USERP2= <>
 ##$USERP3= <>
 ##$USERP4= <>
