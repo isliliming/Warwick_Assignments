@@ -1,12 +1,12 @@
-##TITLE= Parameter file, TopSpin 3.5 pl 2
+##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 1	$$ modification sequence number
+##NPOINTS= 11	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ 2023-10-12 08:26:52.795 +0100  nmrsu@hd300
-$$ /v/thisweek/hd300/data/LAB/nmr/Oct11-2023/120/pdata/1/proc
-$$ process /opt/topspin3.5pl2/prog/mod/dirdata
+$$ 2023-10-30 22:49:57.349 +0000  liming@limings-MacBook-Pro.local
+$$ /Users/liming/Documents/GitHub/Warwick_Assignments/lab/lab_week02/NMR/120/pdata/1/proc
+$$ process /opt/topspin4.3.0/prog/mod/dataserver
 ##$ABSF1= 10
 ##$ABSF2= 0
 ##$ABSG= 5
@@ -36,8 +36,8 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$DFILT= <>
 ##$DTYPP= 0
 ##$ERETIC= no
-##$F1P= 0
-##$F2P= 0
+##$F1P= 16.1937007904053
+##$F2P= -3.82967383642129
 ##$FCOR= 0.5
 ##$FTSIZE= 0
 ##$FT_mod= 4
@@ -92,7 +92,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$PPIPTYP= 0
 ##$PPMPNUM= 2147483647
 ##$PPRESOL= 1
-##$PSCAL= 4
+##$PSCAL= 0
 ##$PSIGN= 0
 ##$PYNMP= <proc.py>
 ##$RDF1= 0
@@ -126,6 +126,7 @@ $$ process /opt/topspin3.5pl2/prog/mod/dirdata
 ##$TM2= 0
 ##$TOPLEV= 0
 ##$USERP1= <>
+##$USERP10= <-1085628.2125000001|2.27320357125E7>
 ##$USERP2= <>
 ##$USERP3= <>
 ##$USERP4= <>

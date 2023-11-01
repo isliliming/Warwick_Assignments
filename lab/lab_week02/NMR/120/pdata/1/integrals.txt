@@ -1,7 +1,7 @@
    Current data set:
-   NAME =	NMR	EXPNO =	20	PROCNO = 1
+   NAME =	NMR	EXPNO =	120	PROCNO = 1
    DU   =	/Users/liming/Documents/GitHub/Warwick_Assignments/lab/lab_week02
 
    Number   Integrated Region     Integral
-     1      5.569      5.504         1.24694
-     2      2.357      2.301         1.00000
+     1      5.574      5.509         1.15361
+     2      2.365      2.303         1.00000

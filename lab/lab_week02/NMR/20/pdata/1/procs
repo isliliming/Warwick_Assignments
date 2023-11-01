@@ -1,12 +1,12 @@
 ##TITLE= Parameter file, TopSpin 4.3.0
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 83	$$ modification sequence number
+##NPOINTS= 114	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ 2023-10-21 04:19:22.416 +0800  bee-b@LLMPC
-$$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/20/pdata/1/procs
-$$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
+$$ 2023-10-30 13:25:01.295 +0000  liming@limings-MacBook-Pro.local
+$$ /Users/liming/Documents/GitHub/Warwick_Assignments/lab/lab_week02/NMR/20/pdata/1/procs
+$$ process /opt/topspin4.3.0/prog/mod/dataserver
 ##$ABSF1= 16.20669
 ##$ABSF2= -3.818853
 ##$ABSG= 5
@@ -44,7 +44,7 @@ $$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
 ##$GAMMA= 0
 ##$GB= 0
 ##$INTBC= 1
-##$INTSCL= 3.91037753179407e-10
+##$INTSCL= 3.91780369031509e-10
 ##$ISEN= 128
 ##$LB= 0.3
 ##$LEV0= 0

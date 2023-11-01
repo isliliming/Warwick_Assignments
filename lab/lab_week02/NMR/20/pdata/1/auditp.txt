@@ -227,7 +227,164 @@ $$ C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2/NMR/20/pdata/1/auditp.
       <INTEGRAL DEFINE [5.588;5.474]
        data hash MD5: 64K
        CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+$$ /Users/liming/Documents/GitHub/Warwick_Assignments/lab/lab_week02/NMR/20/pdata/1/auditp.txt
+(  55,<2023-10-27T20:45:57.682+0100>,<liming>,<pc-12-146.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  56,<2023-10-27T20:59:12.722+0100>,<liming>,<pc-12-146.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  57,<2023-10-27T21:23:02.145+0100>,<liming>,<pc-12-146.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  58,<2023-10-27T21:23:04.206+0100>,<liming>,<pc-12-146.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  59,<2023-10-29T20:10:55.541+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  60,<2023-10-29T20:11:06.615+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  61,<2023-10-29T20:11:09.463+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  62,<2023-10-29T20:11:51.483+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  63,<2023-10-29T20:12:29.055+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Peak added manually at position 3.7443
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  64,<2023-10-29T20:12:29.062+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Peak added manually at position 6.0729
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  65,<2023-10-29T20:12:29.067+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Peak added manually at position 7.1533
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  66,<2023-10-29T20:12:29.072+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Peak added manually at position 1.9374
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  67,<2023-10-29T20:12:29.102+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  68,<2023-10-29T20:12:57.277+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  69,<2023-10-29T20:13:15.252+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  70,<2023-10-29T20:13:37.891+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  71,<2023-10-29T20:13:48.233+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  72,<2023-10-29T20:14:13.005+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Peak added manually at position 3.7071
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  73,<2023-10-29T20:14:13.012+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  74,<2023-10-29T20:14:13.018+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  75,<2023-10-29T20:14:13.021+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  76,<2023-10-29T20:14:13.027+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  77,<2023-10-29T20:14:13.031+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  78,<2023-10-29T20:14:13.034+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  79,<2023-10-29T20:14:13.038+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete all peak picking regions
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  80,<2023-10-29T20:14:13.088+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  81,<2023-10-29T20:14:51.777+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  82,<2023-10-29T20:15:34.508+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <Peak added manually at position 1.9187
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  83,<2023-10-29T20:15:34.571+0000>,<liming>,<pc-6-128.customer.ask4.lan>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  84,<2023-10-30T13:12:09.737+0000>,<liming>,<limings-MacBook-Pro.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  85,<2023-10-30T13:14:33.711+0000>,<liming>,<limings-MacBook-Pro.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Start of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  86,<2023-10-30T13:14:41.417+0000>,<liming>,<limings-MacBook-Pro.local>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  87,<2023-10-30T13:14:48.906+0000>,<liming>,<limings-MacBook-Pro.local>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  88,<2023-10-30T13:15:10.484+0000>,<liming>,<limings-MacBook-Pro.local>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  89,<2023-10-30T13:15:17.354+0000>,<liming>,<limings-MacBook-Pro.local>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  90,<2023-10-30T13:15:21.494+0000>,<liming>,<limings-MacBook-Pro.local>,<dataserver>,<TopSpin 4.3.0>,
+      <Delete peaks within defined region
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  91,<2023-10-30T13:15:21.510+0000>,<liming>,<limings-MacBook-Pro.local>,<dataserver>,<TopSpin 4.3.0>,
+      <End of interactive peak picking
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  92,<2023-10-30T13:17:20.695+0000>,<liming>,<limings-MacBook-Pro.local>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DEFINE [2.357;2.301]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
+(  93,<2023-10-30T13:17:20.700+0000>,<liming>,<limings-MacBook-Pro.local>,<dataserver>,<TopSpin 4.3.0>,
+      <INTEGRAL DEFINE [5.569;5.504]
+       data hash MD5: 64K
+       CE 7C 53 1B B5 56 16 A9 AF 6D 2D 29 2D 1D E6 87>)
 ##END=
 
 $$ hash MD5
-$$ E2 73 33 C6 9C 09 70 21 DF F9 83 88 12 FE 61 6E
+$$ CE A2 1D 3C F8 9A BB C7 F6 55 56 F5 BF 38 89 EB

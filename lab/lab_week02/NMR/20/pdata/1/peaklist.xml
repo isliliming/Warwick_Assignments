@@ -1,107 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PeakList modified="2023-10-21T04:15:42">
+<PeakList modified="2023-10-30T13:15:17">
   <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=16.206690ppm, F2=16.189988ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=16.189978ppm, F2=15.689697ppm, MI=13.04cm, MAXI=13.13cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=15.689687ppm, F2=14.063740ppm, MI=10.54cm, MAXI=13.69cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=14.063740ppm, F2=13.563449ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=13.563449ppm, F2=7.907380ppm, MI=9.41cm, MAXI=13.11cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=7.907380ppm, F2=7.087458ppm, MI=10.73cm, MAXI=13.49cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=7.087458ppm, F2=5.739451ppm, MI=10.04cm, MAXI=14.96cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=5.739451ppm, F2=5.461512ppm, MI=2.52cm, MAXI=2.86cm, PC=1.000
+    <PeakList1DHeader creator="liming" date="2023-10-30T13:15:17" expNo="20" name="NMR" owner="" procNo="1" source="/Users/liming/Documents/GitHub/Warwick_Assignments/lab/lab_week02">
+      <PeakPickDetails>F1=5.588524ppm, F2=5.514010ppm, MI=2.48cm, MAXI=2.75cm, PC=1.000
       </PeakPickDetails>
     </PeakList1DHeader>
     <Peak1D F1="5.534777" intensity="2.643006" type="0"/>
   </PeakList1D>
   <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=5.461512ppm, F2=5.141881ppm, MI=10.04cm, MAXI=14.96cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=5.141881ppm, F2=4.085711ppm, MI=10.73cm, MAXI=13.49cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=4.085711ppm, F2=3.390862ppm, MI=18.13cm, MAXI=22.01cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=3.390862ppm, F2=3.177119ppm, MI=4.55cm, MAXI=7.17cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=3.177119ppm, F2=2.459765ppm, MI=5.26cm, MAXI=6.64cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=2.459765ppm, F2=2.251310ppm, MI=3.15cm, MAXI=3.53cm, PC=1.000
+    <PeakList1DHeader creator="liming" date="2023-10-30T13:15:17" expNo="20" name="NMR" owner="" procNo="1" source="/Users/liming/Documents/GitHub/Warwick_Assignments/lab/lab_week02">
+      <PeakPickDetails>F1=2.440322ppm, F2=2.291295ppm, MI=3.08cm, MAXI=3.47cm, PC=1.000
       </PeakPickDetails>
     </PeakList1DHeader>
     <Peak1D F1="2.330652" intensity="3.356265" type="0"/>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=2.251310ppm, F2=1.653740ppm, MI=5.26cm, MAXI=6.64cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=1.653740ppm, F2=-3.627111ppm, MI=9.39cm, MAXI=12.65cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
-  </PeakList1D>
-  <PeakList1D>
-    <PeakList1DHeader creator="bee-b" date="2023-10-21T04:15:42" expNo="20" name="NMR" owner="" procNo="1" source="C:/Users/bee-b/Desktop/LAB02/CH971_Week_2/CH971_Week_2">
-      <PeakPickDetails>F1=-3.627111ppm, F2=-3.818854ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.000
-      </PeakPickDetails>
-    </PeakList1DHeader>
   </PeakList1D>
 </PeakList>
