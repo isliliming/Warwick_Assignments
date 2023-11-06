@@ -45,7 +45,7 @@ all_vdw_values = [w_vdw(D, R) for R in [1E-9, 10E-9, 50E-9, 100E-9, 200E-9, 1000
 plt.ylim([min(map(min, all_vdw_values)), max(map(max, all_vdw_values))])
 
 # Save the figure to a file
-plt.savefig('van_der_waals_plot.png', dpi=300)8
+#plt.savefig('van_der_waals_plot.png', dpi=300)
 
 # Show the plot
 plt.show()
